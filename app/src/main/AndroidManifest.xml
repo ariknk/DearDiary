@@ -15,6 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SignUp" />
+        <activity android:name=".Temp1" />
+        <activity android:name=".temp2" />
+        <activity android:name=".View"></activity>
     </application>
 
 </manifest>
